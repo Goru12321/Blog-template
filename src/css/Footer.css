@@ -1,0 +1,34 @@
+.footer{
+    background-color: rgba(136, 128, 128, 0.69);
+    height: 30vh;
+    margin-top: 4rem;
+}
+
+.button{
+    display: flex;
+    margin-top: 2rem;
+    margin-left: 3rem;
+    
+}
+.xyz{
+    display: flex;
+    flex-direction: column;
+
+    /* align-items: center; */
+}
+
+.t{
+    margin-top: 2rem;
+    margin-left: 3rem;
+}
+
+.bt button{
+    background-color: black;
+    color: white;
+    margin: 0.2rem;
+    padding: 1rem;
+}
+
+h4{
+    color: white;
+}

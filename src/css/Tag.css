@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.tag{
+    width: 95vw;
+    margin: auto;
+    border: 2px solid #e1dfdff6;
+    margin-top: 4rem;
+    border-radius: 1rem;
+}
+
+.htag{
+    height: 4rem;
+   display: flex;
+   align-items: center;
+}
+h2{
+    font-weight: lighter;
+}
+
+.tagvalue{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 2px;
+    background-color: white;
+    padding: 1rem;
+    width: 90vw;
+}
+
+.travel{
+    background-color: black;
+    color: white;
+}
+
+button{
+    padding: 0 1rem;
+}

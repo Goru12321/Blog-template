@@ -1,0 +1,25 @@
+.blog {
+  background-color: white;
+  width: 95vw;
+  margin: auto;
+  margin-top: 4rem;
+  border: 2px solid white;
+  border-radius: 1rem;
+}
+
+img {
+  width: 95vw;
+  height: 40vh;
+  object-fit: cover;
+}
+.desc {
+  margin: 2rem 0;
+}
+
+.read {
+  margin: 2rem 2rem;
+  font-size: 1rem;
+  padding: 1rem 2rem;
+  background-color: white;
+  font-weight: bold;
+}
